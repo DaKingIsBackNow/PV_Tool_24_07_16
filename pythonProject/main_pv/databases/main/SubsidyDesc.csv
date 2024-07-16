@@ -1,0 +1,6 @@
+﻿Index;Name;BasePer;HeatChange;Description
+0;No subsidy possible;0;0;This system is currently not subsidized
+1;Biomass;10;10;Biomass systems are currently subsidized with a base of 10 % and a bonus 10 % for a possible 20 %. Next year the rate should be higher at 30 % base up to 70 % regardless of the system type as long as it is renewable or district heating.
+2;Solar Thermal;25;0;Solar Thermal systems always get a bonus of 25 %
+3;Heat Pump;30;10;"Heat Pumps are currently subsidized with 25 %, 10 % bonus for changing a ""bad"" heating system, and 5 % more for a natural cooling liquid."
+4;Heat Network;30;10;District heating heat networks get a base subsidy of 30 % with a bonus of 10 %.  For smaller networks for up to 16 buildings it is 25 %.

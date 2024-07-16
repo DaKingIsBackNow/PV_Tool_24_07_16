@@ -1,0 +1,12 @@
+﻿SubIndex;MainIndex;Name
+0;0;Low Temp Boiler
+1;0;Condensing Boiler
+2;0;Biomass NC Boiler
+3;0;Biomass Condensing Boiler
+4;1;Solar Thermal
+5;2;Air-Water Heat Pump
+6;2;Water-Water Heat Pump
+7;2;Soil-Water Heat Pump
+8;3;Heat Plant 
+9;3;CHP Plant
+10;4;Direct Electricity
